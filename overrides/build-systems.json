@@ -24996,9 +24996,6 @@
   "typed-argument-parser": [
     "setuptools"
   ],
-  "typed-ast": [
-    "setuptools"
-  ],
   "typed-settings": [
     "hatchling",
     "setuptools"
